@@ -75,3 +75,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 For any inquiries or support, please contact jaint8648@gmail.com.
 
 Thank you for using the Hotel Management System! We hope you enjoy using it.
+
+## License
+
+This project is licensed under the MIT License.
